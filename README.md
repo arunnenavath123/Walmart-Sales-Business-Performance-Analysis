@@ -1,4 +1,4 @@
-# 🛒 Walmart Sales Analysis – Python | SQL | Power BI
+# 🛒 Walmart Sales & Business Performance Analysis – Python | SQL | Power BI
 
 A complete end-to-end **data analytics project** exploring Walmart’s sales performance using **Python (Jupyter Notebook), SQL, and Power BI**.
 This project uncovers key insights like top-performing categories, customer behavior trends, branch performance, and revenue patterns.
@@ -131,8 +131,6 @@ VS Code, Jupyter Notebook, MySQL Workbench
 ---
 
 ```
-
----
 
 ## 🌟 Future Enhancements
 
