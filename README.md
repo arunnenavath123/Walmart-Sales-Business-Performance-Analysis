@@ -130,34 +130,6 @@ VS Code, Jupyter Notebook, MySQL Workbench
 
 ---
 
-## ▶️ How to Run the Project Locally
-
-### **1. Clone the repo**
-
-```bash
-git clone https://github.com/yourusername/Walmart-Sales-Analysis.git
-cd Walmart-Sales-Analysis
-```
-
-### **2. Run the Notebook**
-
-Open **walmart.ipynb** in Jupyter Notebook or VS Code.
-
-### **3. Execute SQL**
-
-Open **walmart_project.sql** in MySQL Workbench
-Use database:
-
-```sql
-USE walmart_db;
-```
-
-### **4. Open Power BI Dashboard**
-
-Download **Power BI Desktop**, then open:
-
-```
-Walmart_Dashboard.pbix
 ```
 
 ---
