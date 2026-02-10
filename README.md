@@ -1,6 +1,6 @@
-# 🛒 Walmart Sales Analysis – SQL | Python | Power BI
+# 🛒 Walmart Sales Analysis – Python | SQL | Power BI
 
-A complete end-to-end **data analytics project** exploring Walmart’s sales performance using **SQL, Python (Jupyter Notebook), and Power BI**.
+A complete end-to-end **data analytics project** exploring Walmart’s sales performance using **Python (Jupyter Notebook), SQL, and Power BI**.
 This project uncovers key insights like top-performing categories, customer behavior trends, branch performance, and revenue patterns.
 
 ---
@@ -173,6 +173,6 @@ Walmart_Dashboard.pbix
 
 ## 👩‍💻 Author
 
-**Harshita Pandey** 
-| SQL | Python | Power BI
-📧 harshitapandey2910@gmail.com
+**Arun Nenavath** 
+| Python | SQL | Power BI
+📧 nenavatharun973@gmail.com
